@@ -261,6 +261,19 @@ img {
     color: var(--text-light);
 }
 
+/* Reviews Section */
+.reviews {
+    padding: 80px 20px;
+    background: var(--white);
+}
+
+.reviews h2 {
+    font-size: 2.2rem;
+    color: var(--primary-color);
+    margin-bottom: 40px;
+    text-align: center;
+}
+
 /* Contact Section */
 .contact {
     padding: 80px 20px;
