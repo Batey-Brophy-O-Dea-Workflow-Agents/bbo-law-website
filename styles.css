@@ -405,6 +405,12 @@ img {
     margin: 0 auto;
 }
 
+.footer .advertisement {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+}
+
 /* Mobile Responsive */
 @media (max-width: 768px) {
     .mobile-menu-btn {
