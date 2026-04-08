@@ -1,0 +1,63 @@
+# Site settings
+title: "Batey Brophy & O'Dea, PLLC"
+description: "Louisville personal injury lawyers who limit their caseload to focus on your case. Free consultation. Call 502-509-9407."
+url: "https://bbo-law.com"
+baseurl: ""
+
+# SEO
+lang: en
+tagline: "Louisville Personal Injury Lawyers"
+author: "Batey Brophy & O'Dea, PLLC"
+
+# Build
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CNAME
+  - node_modules
+  - vendor
+
+# Plugins (GitHub Pages whitelisted)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# jekyll-seo-tag defaults
+twitter:
+  card: summary
+social:
+  name: "Batey Brophy & O'Dea, PLLC"
+  links:
+    - https://www.facebook.com/bateylaw
+    - https://www.instagram.com/bateybrophyodea
+    - https://www.tiktok.com/@BBOLAW
+
+# Collections (future use)
+# collections:
+#   attorneys:
+#     output: true
+#     permalink: /attorneys/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "practice-areas"
+    values:
+      layout: "practice-area"
+  - scope:
+      path: "attorneys"
+    values:
+      layout: "attorney"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"

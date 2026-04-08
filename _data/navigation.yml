@@ -1,0 +1,12 @@
+# Site navigation
+main:
+  - title: "About"
+    url: "/#about"
+  - title: "Practice Areas"
+    url: "/practice-areas/"
+  - title: "Attorneys"
+    url: "/attorneys/"
+  - title: "Reviews"
+    url: "/#reviews"
+  - title: "Contact"
+    url: "/contact/"

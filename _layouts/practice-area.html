@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% if page.schema_service %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "{{ page.title }} - {{ site.data.firm.name }}",
+  "serviceType": "{{ page.schema_service }}",
+  "provider": {
+    "@type": "LegalService",
+    "name": "{{ site.data.firm.name }}",
+    "url": "{{ site.data.firm.url }}",
+    "telephone": "{{ site.data.firm.phone }}"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Louisville"
+  }
+}
+</script>
+{% endif %}
+
+<section class="practice-area-page">
+  <div class="container">
+    <h1>{{ page.title }}</h1>
+
+    <div class="practice-area-body">
+      {{ content }}
+    </div>
+
+    <div class="practice-area-cta">
+      <h2>Free Consultation</h2>
+      <p>If you have been injured, call us today at <a href="{{ site.data.firm.phone_link }}">{{ site.data.firm.phone }}</a> or <a href="/contact/">contact us online</a> for a free consultation.</p>
+    </div>
+  </div>
+</section>

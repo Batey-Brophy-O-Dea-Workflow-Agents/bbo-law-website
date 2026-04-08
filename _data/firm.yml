@@ -1,0 +1,47 @@
+# Firm information -- single source of truth for templates and schema markup
+name: "Batey Brophy & O'Dea, PLLC"
+short_name: "BBo Law"
+url: "https://bbo-law.com"
+email: "info@bbo-law.com"
+phone: "502-509-9407"
+phone_link: "tel:502-509-9407"
+fax: "502-470-3634"
+
+address:
+  street: "161 St. Matthews Ave., Suite 16"
+  city: "Louisville"
+  state: "Kentucky"
+  state_abbr: "KY"
+  zip: "40207"
+  country: "US"
+
+geo:
+  latitude: 38.2527
+  longitude: -85.6557
+
+hours: "Mo-Fr 09:00-17:00"
+hours_display: "Monday - Friday, 9:00 AM - 5:00 PM"
+price_range: "Free Consultation"
+
+rating:
+  value: "4.9"
+  count: "44"
+
+social:
+  facebook: "https://www.facebook.com/bateylaw"
+  instagram: "https://www.instagram.com/bateybrophyodea"
+  tiktok: "https://www.tiktok.com/@BBOLAW"
+
+# Contact form
+form_action: "https://formsubmit.co/info@bbo-law.com"
+
+# Google Maps embed
+map_embed: "https://maps.google.com/maps?q=161+St+Matthews+Ave+Suite+16,+Louisville,+KY+40207&output=embed"
+
+# Legal disclaimers
+disclaimer: "This website is for informational purposes only and does not constitute legal advice. Contacting us does not create an attorney-client relationship."
+advertisement: "THIS IS AN ADVERTISEMENT"
+results_disclaimer: "Prior results do not guarantee a similar outcome."
+
+# Trust widget
+trustindex_id: "a858aaf633f80156a006da6705a"

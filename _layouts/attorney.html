@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% if page.schema_name %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Attorney",
+  "name": "{{ page.schema_name }}",
+  "jobTitle": "{{ page.job_title | default: 'Partner' }}",
+  "worksFor": {
+    "@type": "LegalService",
+    "name": "{{ site.data.firm.name }}"
+  },
+  "url": "{{ site.url }}{{ page.url }}",
+  "telephone": "{{ site.data.firm.phone }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ site.data.firm.address.street }}",
+    "addressLocality": "{{ site.data.firm.address.city }}",
+    "addressRegion": "{{ site.data.firm.address.state_abbr }}",
+    "postalCode": "{{ site.data.firm.address.zip }}",
+    "addressCountry": "{{ site.data.firm.address.country }}"
+  }{% if page.image %},
+  "image": "{{ site.url }}{{ page.image }}"{% endif %}{% if page.education %},
+  "alumniOf": [
+    {% for school in page.education %}
+    {
+      "@type": "EducationalOrganization",
+      "name": "{{ school }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]{% endif %}{% if page.practice_areas %},
+  "knowsAbout": {{ page.practice_areas | jsonify }}{% endif %}
+}
+</script>
+{% endif %}
+
+<section class="attorney-profile">
+  <div class="container">
+    <div class="attorney-header">
+      {% if page.image %}
+      <div class="attorney-photo">
+        <img src="{{ page.image }}" alt="{{ page.schema_name | default: page.title }}, {{ page.job_title | default: 'Attorney' }} at {{ site.data.firm.name }}">
+      </div>
+      {% endif %}
+      <div class="attorney-info">
+        <h1>{{ page.title }}</h1>
+        {% if page.job_title %}<p class="job-title">{{ page.job_title }}</p>{% endif %}
+        {% if page.bar_number %}<p class="bar-number">Kentucky Bar #{{ page.bar_number }}</p>{% endif %}
+      </div>
+    </div>
+
+    <div class="attorney-body">
+      {{ content }}
+    </div>
+  </div>
+</section>

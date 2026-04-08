@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "{{ site.data.firm.name }}",
+  "url": "{{ site.data.firm.url }}",
+  "telephone": "{{ site.data.firm.phone }}",
+  "email": "{{ site.data.firm.email }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ site.data.firm.address.street }}",
+    "addressLocality": "{{ site.data.firm.address.city }}",
+    "addressRegion": "{{ site.data.firm.address.state_abbr }}",
+    "postalCode": "{{ site.data.firm.address.zip }}",
+    "addressCountry": "{{ site.data.firm.address.country }}"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ site.data.firm.geo.latitude }},
+    "longitude": {{ site.data.firm.geo.longitude }}
+  },
+  "openingHours": "{{ site.data.firm.hours }}",
+  "priceRange": "{{ site.data.firm.price_range }}",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ site.data.firm.rating.value }}",
+    "reviewCount": "{{ site.data.firm.rating.count }}"
+  },
+  "areaServed": [
+    {"@type": "City", "name": "Louisville"},
+    {"@type": "AdministrativeArea", "name": "Jefferson County"}
+  ]
+}
+</script>

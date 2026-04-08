@@ -1,0 +1,15 @@
+<header class="header">
+  <div class="container header-content">
+    <a href="/" class="logo">{{ site.data.firm.name | split: "," | first }} <span>{{ site.data.firm.name | split: "," | last | strip }}</span></a>
+    <nav class="nav">
+      {% for item in site.data.navigation.main %}
+      <a href="{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+    <button class="mobile-menu-btn" aria-label="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+  </div>
+</header>
