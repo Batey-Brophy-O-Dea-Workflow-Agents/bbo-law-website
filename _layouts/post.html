@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">Home</a></li>
+    <li><a href="/blog/">Blog</a></li>
+    <li aria-current="page">{{ page.title }}</li>
+  </ol>
+</nav>
+
+<article class="post-page">
+  <div class="container">
+    <header class="post-header">
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        {% if page.author %}&middot; by {{ page.author }}{% endif %}
+      </p>
+    </header>
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    <div class="post-soft-cta">
+      <p>Questions about your case?  We offer free consultations.  Call <a href="{{ site.data.firm.phone_link }}">{{ site.data.firm.phone }}</a> or <a href="/contact/">reach out online</a>.</p>
+    </div>
+
+    <footer class="post-footer">
+      <p class="post-advertisement">This is an advertisement.  The attorneys at {{ site.data.firm.name }} are licensed to practice law in the Commonwealth of Kentucky.  The information in this post is for general informational purposes and does not constitute legal advice.</p>
+    </footer>
+  </div>
+</article>

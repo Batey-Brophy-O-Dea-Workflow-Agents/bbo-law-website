@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Blog -- Batey Brophy & O'Dea"
+description: "Legal insights, case updates, and client guidance from Louisville attorneys Batey Brophy & O'Dea."
+permalink: /blog/
+---
+<section class="blog-index">
+  <div class="container">
+    <h1>Blog</h1>
+    <p class="blog-lede">Legal insights, case updates, and client guidance from our Louisville attorneys.</p>
+
+    {% if site.posts.size > 0 %}
+    <ul class="post-list">
+      {% for post in site.posts %}
+      <li class="post-list-item">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="post-list-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></p>
+        {% if post.excerpt %}
+        <p class="post-list-excerpt">{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
+        {% elsif post.description %}
+        <p class="post-list-excerpt">{{ post.description }}</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p><em>No posts yet.  Check back soon.</em></p>
+    {% endif %}
+  </div>
+</section>

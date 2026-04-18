@@ -1,0 +1,30 @@
+---
+layout: default
+title: "Client Resources -- Batey Brophy & O'Dea"
+description: "Plain-English guides to common legal questions from Louisville attorneys Batey Brophy & O'Dea."
+permalink: /resources/
+---
+<section class="resources-index">
+  <div class="container">
+    <h1>Resources</h1>
+    <p class="resources-lede">Plain-English guides to common legal questions.  If you don't see yours, call us -- we're happy to talk through it.</p>
+
+    {% assign resources = site.pages | where_exp: "p", "p.url contains '/resources/'" | where_exp: "p", "p.url != '/resources/'" | sort: "title" %}
+    {% if resources.size > 0 %}
+    <ul class="resource-list">
+      {% for r in resources %}
+      {% unless r.url contains 'index' %}
+      <li class="resource-list-item">
+        <h2><a href="{{ r.url }}">{{ r.title }}</a></h2>
+        {% if r.description %}
+        <p class="resource-list-excerpt">{{ r.description }}</p>
+        {% endif %}
+      </li>
+      {% endunless %}
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p><em>Resources coming soon.</em></p>
+    {% endif %}
+  </div>
+</section>
