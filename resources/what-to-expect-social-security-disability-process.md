@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: "What to Expect from the Social Security Disability Process"
 description: "Most people wait 2-3 years from application to approval. Know what's coming at each stage -- and how a lawyer makes a difference. Tim O'Dea, Louisville SSD attorney. (502) 509-9407."
 permalink: /resources/what-to-expect-social-security-disability-process/

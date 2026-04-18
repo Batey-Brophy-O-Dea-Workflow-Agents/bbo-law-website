@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: "Do I Qualify for Social Security Disability?"
 description: "The SSA uses a strict five-step test. Many people who cannot work are denied for technical reasons -- and many who think they don't qualify actually do. Tim O'Dea explains. (502) 509-9407."
 permalink: /resources/do-i-qualify-for-social-security-disability/

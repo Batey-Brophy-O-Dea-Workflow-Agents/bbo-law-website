@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Should You Use ChatGPT to Evaluate Your Personal Injury Case?"
 description: "AI tools are useful for learning. They cannot evaluate your case, and they are not private. Here is what you should know before typing your accident details into ChatGPT."
 permalink: /blog/chatgpt-personal-injury-case-what-it-can-and-cant-do/

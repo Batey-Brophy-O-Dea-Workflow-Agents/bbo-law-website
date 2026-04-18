@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: "What to Do After a Car Accident in Louisville, Kentucky"
 description: "A step-by-step guide to what to do after a car accident in Louisville -- at the scene, in the hours after, and in the days that follow.  Free consultation.  502-509-9407."
 permalink: /resources/what-to-do-after-car-accident-louisville/

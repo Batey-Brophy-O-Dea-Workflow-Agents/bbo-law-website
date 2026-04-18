@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: "How Does a Contingency Fee Work?"
 description: "Personal injury lawyers in Kentucky work on contingency -- you pay nothing unless we win. Plain-English explainer of how the fee works. Batey Brophy & O'Dea. (502) 509-9407."
 permalink: /resources/how-does-a-contingency-fee-work/

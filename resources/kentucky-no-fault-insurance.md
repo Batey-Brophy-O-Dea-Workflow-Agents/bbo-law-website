@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: "How Kentucky's No-Fault Insurance System Works"
 description: "A plain-English explainer of Kentucky's choice no-fault auto insurance, PIP coverage, and when you can sue after a car accident.  Free consultation.  502-509-9407."
 permalink: /resources/kentucky-no-fault-insurance/

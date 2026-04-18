@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resource
 title: "How Long Do I Have to File a Personal Injury Claim in Kentucky?"
 description: "Kentucky's statute of limitations: 2 years for car accidents, 1 year for most other personal injury claims. Know your deadline. Free consultation. (502) 509-9407."
 permalink: /resources/how-long-do-i-have-to-file-personal-injury-claim-kentucky/

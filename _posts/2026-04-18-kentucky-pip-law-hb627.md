@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "What Kentucky's New PIP Law Means If Your Accident Happened Before July 2026"
 description: "HB 627 changes Kentucky's no-fault insurance rules -- but not for everyone. Whether the new law applies to your accident depends on when you were hurt and when your policy renews."
 permalink: /blog/kentucky-pip-law-hb627-what-it-means-for-your-accident-claim/
