@@ -12,7 +12,7 @@ keywords:
   - "simple divorce lawyer Louisville"
   - "agreed divorce Louisville KY"
 schema_service: "Uncontested Divorce Legal Services"
-review_needed: "Open questions: KRS 403.170(2) 60-day framing, Jefferson County hearing practice, current filing fee. Do not publish until Nolia confirms."
+review_needed: false
 ---
 
 ## You Both Agree.  You Just Need It Done Right.
@@ -66,7 +66,7 @@ To file for divorce in Kentucky, you must meet these basic requirements:
 
 - **Residency:**  At least one spouse must have been a resident of Kentucky for 180 days (about 6 months) before filing.
 - **Grounds:**  Kentucky is a "no-fault" divorce state.  That means you do not have to prove that anyone did anything wrong.  The only ground for divorce is that the marriage is "irretrievably broken" -- which means it is over and cannot be fixed.
-- **Separation:**  The court must find that you and your spouse have lived apart for at least 60 days before the divorce can be finalized.
+- **Separation:**  The court must find that you and your spouse have lived apart — no longer cohabiting as husband and wife — for at least 60 days before the divorce can be finalized.
 
 ### The Process
 
@@ -76,15 +76,15 @@ To file for divorce in Kentucky, you must meet these basic requirements:
 
 **Step 3: The Settlement Agreement.**  This is the document that spells out everything you have agreed to -- property division, custody, support, everything.  This is the most important document in your divorce, and it needs to be done right.  We draft this for you.
 
-**Step 4: The Waiting Period.**  Kentucky requires at least 60 days from the date of filing before the divorce can be finalized.
+**Step 4: The Waiting Period.**  Kentucky imposes two 60-day requirements, both of which must be satisfied before the court can enter a final decree.  First, the parties must have lived apart — no longer cohabiting as husband and wife — for at least 60 days.  Second, in cases involving children, there is a 60-day period that runs from the date the respondent is served with the petition or signs a waiver of service.  Both requirements run concurrently.
 
-**Step 5: Final Hearing.**  In many uncontested cases, the final hearing is brief.  One or both spouses appear before the judge, confirm that the marriage is irretrievably broken and that the settlement agreement is fair, and the judge signs the decree.
+**Step 5: Final Review.**  In Jefferson County, uncontested divorces are typically finalized on the paperwork.  Neither spouse is required to appear in court.
 
 **Step 6: Entry of Decree.**  The judge signs the decree of dissolution, and your divorce is final.
 
 ### Timeline
 
-An uncontested divorce in Kentucky can be completed in as little as 60 to 90 days from filing.  That timeline depends on the court's schedule, whether all paperwork is filed correctly, and whether there are any complications.
+Kentucky's statutory requirements set a floor, not a finish line.  The actual timeline depends on the court's docket, how quickly paperwork is assembled, whether the agreement needs revisions, and the complexity of what is being divided.  In practice, 90 days from filing is exceptionally fast.  Most uncontested divorces take longer.  We will give you an honest estimate based on your specific situation.
 
 ---
 
@@ -119,7 +119,7 @@ The cost of an uncontested divorce is significantly less than a contested one.  
 
 At Batey Brophy & O'Dea, we are transparent about our fees.  We will tell you up front what an uncontested divorce will cost based on the specifics of your situation -- whether you have children, whether there is property to divide, whether a QDRO is needed, and how complex the agreement is.
 
-In addition to attorney fees, there is a court filing fee in Kentucky.  We will walk you through the full cost picture during your consultation so there are no surprises.
+In addition to attorney fees, there is a court filing fee.  In Jefferson County, that fee is less than $200.  We will walk you through the full cost picture during your consultation so there are no surprises.
 
 ---
 
@@ -137,7 +137,7 @@ In addition to attorney fees, there is a court filing fee in Kentucky.  We will 
 
 ### How long does an uncontested divorce take in Kentucky?
 
-The minimum is about 60 days from the date of filing, due to Kentucky's waiting period.  In practice, most uncontested divorces are completed in 60 to 90 days, assuming all paperwork is filed correctly and the court's schedule allows.
+There is no simple answer to this, and anyone who gives you one is guessing.  Kentucky's statutory requirements set a floor, not a finish line.  The actual timeline depends on the court's docket, how quickly all paperwork comes together, and what is being divided.  In our experience, 90 days is exceptionally fast.  Most uncontested divorces take longer.  We will give you an honest estimate when we talk through the specifics of your case.
 
 ### Can we use the same lawyer?
 
@@ -149,7 +149,7 @@ You may still be able to resolve your divorce without a full contested proceedin
 
 ### Do we both have to appear in court?
 
-In many uncontested cases in Jefferson County, only the petitioner needs to appear for the final hearing.  This depends on the judge and the specifics of your case.
+In Jefferson County, uncontested divorces are typically finalized on the paperwork.  Neither spouse is required to appear in court.
 
 ### What if my spouse lives in another state?
 
@@ -161,7 +161,7 @@ A QDRO (Qualified Domestic Relations Order) is a court order that divides a reti
 
 ### Does Kentucky require a separation period before divorce?
 
-Kentucky requires that the court find the spouses have lived apart for at least 60 days before the divorce is finalized.  Living apart can include living in separate areas of the same house under some circumstances.  The 60-day waiting period runs from the date of filing.
+Yes.  Kentucky requires that the parties have lived apart — no longer cohabiting as husband and wife — for at least 60 days before the divorce can be finalized.  In cases involving children, there is also a 60-day period that runs from the date of service or waiver of process.  Both requirements run concurrently.
 
 ---
 
