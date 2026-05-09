@@ -21,7 +21,7 @@ geo:
 
 hours: "Mo-Fr 09:00-17:00"
 hours_display: "Monday - Friday, 9:00 AM - 5:00 PM"
-price_range: "Free Consultation"
+price_range: "$$"
 
 rating:
   value: "4.9"

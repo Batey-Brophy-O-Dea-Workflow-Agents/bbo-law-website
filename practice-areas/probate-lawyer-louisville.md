@@ -1,7 +1,7 @@
 ---
 layout: practice-area
 title: "Probate Lawyer in Louisville, Kentucky"
-description: "Tim O'Dea has guided Louisville families through probate since 1995. We handle the paperwork so you can focus on your family. Free consultation. (502) 509-9407."
+description: "Tim O'Dea has guided Louisville families through probate since 1995. We handle the paperwork so you can focus on your family. Call (502) 509-9407."
 permalink: /practice-areas/probate-lawyer-louisville/
 practice_area: "Probate"
 keywords:
@@ -22,7 +22,7 @@ Probate is the legal process for settling a person's estate after they die.  It 
 
 At Batey Brophy & O'Dea, Tim O'Dea guides families through probate and estate administration in Louisville and across Kentucky.  Tim has been handling probate matters since 1995, and he brings both deep experience and genuine empathy to every family he works with.  Whether you are the named executor, a family member trying to figure out what to do next, or someone who has questions about a loved one's estate, we can help.
 
-We offer free consultations.  Call us and let us take some of this off your plate.
+Call us and let us take some of this off your plate.
 
 **(502) 509-9407**
 
@@ -157,9 +157,9 @@ Kentucky's intestacy laws determine who inherits.  The estate goes to the closes
 
 ---
 
-## Free Consultation -- Call Today
+## Call Today
 
-If you have lost a loved one and need help with probate or estate administration, call us.  Tim O'Dea will review your situation and explain the process, the timeline, and what it will take to get things resolved.  The consultation is free.
+If you have lost a loved one and need help with probate or estate administration, call us.  Tim O'Dea will review your situation and explain the process, the timeline, and what it will take to get things resolved.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16

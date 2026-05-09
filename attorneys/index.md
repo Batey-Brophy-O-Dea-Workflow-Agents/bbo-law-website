@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Our Attorneys"
-description: "Meet the attorneys at Batey Brophy & O'Dea in Louisville, KY.  Experienced personal injury, family law, and disability lawyers.  Free consultation."
+description: "Meet the attorneys at Batey Brophy & O'Dea in Louisville, KY.  Experienced personal injury, family law, and disability lawyers.  Free consultations available for personal injury and Social Security disability cases."
 permalink: /attorneys/
 ---
 

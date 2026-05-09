@@ -1,7 +1,7 @@
 ---
 layout: practice-area
 title: "Family Law Attorney in Louisville, Kentucky"
-description: "Katie Brophy has handled family law in Jefferson County courts for nearly 50 years. Divorce, custody, child support, and protective orders. Free consultation. (502) 509-9407."
+description: "Katie Brophy has handled family law in Jefferson County courts for nearly 50 years. Divorce, custody, child support, and protective orders. Call (502) 509-9407."
 permalink: /practice-areas/family-law-attorney-louisville/
 practice_area: "Family Law"
 keywords:
@@ -138,7 +138,7 @@ A domestic violence order is a court order that restricts an abusive person's co
 
 Family law cases do not resolve themselves.  The sooner you have good legal advice, the better your options are.
 
-Call us for a free consultation.  We will tell you where you stand, what the process looks like, and what we can do to help.
+Call us today.  We will tell you where you stand, what the process looks like, and what we can do to help.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16

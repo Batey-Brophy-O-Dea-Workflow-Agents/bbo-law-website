@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Practice Areas"
-description: "Batey Brophy & O'Dea handles personal injury, car accidents, slip and fall, Social Security disability, probate, and family law cases in Louisville, KY.  Free consultation."
+description: "Batey Brophy & O'Dea handles personal injury, car accidents, slip and fall, Social Security disability, probate, and family law cases in Louisville, KY.  Free consultations available for personal injury and Social Security disability cases."
 permalink: /practice-areas/
 ---
 
@@ -45,6 +45,6 @@ At Batey Brophy & O'Dea, we focus on a limited number of practice areas so we ca
 
 ---
 
-## Free Consultation
+## Talk to a Lawyer Today
 
-If you have been injured or need legal help, call us today at [502-509-9407](tel:502-509-9407) or [contact us online](/contact/) for a free consultation.
+Call us at [502-509-9407](tel:502-509-9407) or [contact us online](/contact/).  Free consultations are available for personal injury and Social Security disability cases.

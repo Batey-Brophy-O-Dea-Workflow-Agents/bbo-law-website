@@ -1,7 +1,7 @@
 ---
 layout: attorney
 title: "Katie Brophy"
-description: "Katie Brophy is a partner at Batey Brophy & O'Dea in Louisville, KY.  Family law and divorce attorney.  Free consultation.  502-509-9407."
+description: "Katie Brophy is a partner at Batey Brophy & O'Dea in Louisville, KY.  Family law and divorce attorney.  Call 502-509-9407."
 permalink: /attorneys/katie-brophy/
 schema_name: "Katie Brophy"
 job_title: "Partner"

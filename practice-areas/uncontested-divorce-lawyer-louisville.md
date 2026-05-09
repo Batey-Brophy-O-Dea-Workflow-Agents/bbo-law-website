@@ -1,7 +1,7 @@
 ---
 layout: practice-area
 title: "Uncontested Divorce Lawyer in Louisville, Kentucky"
-description: "You both agree. Now you need it done right. Uncontested divorce in Jefferson County handled efficiently and correctly. Free consultation. (502) 509-9407."
+description: "You both agree. Now you need it done right. Uncontested divorce in Jefferson County handled efficiently and correctly. Call (502) 509-9407."
 permalink: /practice-areas/uncontested-divorce-lawyer-louisville/
 practice_area: "Uncontested Divorce"
 keywords:
@@ -165,7 +165,7 @@ Yes.  Kentucky requires that the parties have lived apart — no longer cohabiti
 
 ---
 
-## Free Consultation -- Call Today
+## Call Today
 
 If you and your spouse have agreed to divorce and want it handled correctly, efficiently, and without unnecessary expense, call us.  We will explain the process, the timeline, and the cost -- and we will make sure everything is done right.
 
