@@ -51,7 +51,7 @@ A contingency fee covers the attorney's fee for their time and work.  But cases 
 
 These expenses are handled differently by different firms.  Some deduct them from the recovery in addition to the attorney's fee.  Some advance them and are only reimbursed if there is a recovery.
 
-We will explain exactly how we handle case expenses during your free consultation.  You will know the full picture before you decide anything.
+We will explain exactly how we handle case expenses during your free consultation on your personal injury case.  You will know the full picture before you decide anything.
 
 ---
 
@@ -69,7 +69,7 @@ It also means your lawyer's interests are aligned with yours.  We get paid more 
 
 Here is what the process looks like:
 
-**1. Free consultation.**  You call us, tell us what happened, and we tell you honestly whether you have a case.  No charge, no obligation.
+**1. Free consultation on your personal injury case.**  You call us, tell us what happened, and we tell you honestly whether you have a case.  No charge, no obligation.
 
 **2. Representation agreement.**  If we agree to represent you, we sign a written fee agreement that spells out the fee percentage and how expenses are handled.  You receive a copy.
 
@@ -87,7 +87,7 @@ For the attorney's fee: correct -- if there is no recovery, there is no fee.
 
 For case expenses: it depends on your specific fee agreement.  If expenses were advanced on your behalf and there is no recovery, some agreements provide that those costs are also not charged back to you.  Others do not.  We will explain ours clearly.
 
-The bottom line: if you call us for a free consultation and decide not to hire us, you owe nothing.  If you hire us and we do not recover, you will not owe us an attorney's fee.  The specifics on expenses will be in your written agreement, and we will walk through it with you.
+The bottom line: if you call us for a free consultation on your personal injury case and decide not to hire us, you owe nothing.  If you hire us and we do not recover, you will not owe us an attorney's fee.  The specifics on expenses will be in your written agreement, and we will walk through it with you.
 
 ---
 
@@ -129,7 +129,7 @@ Contingency fee percentages are standard across the personal injury industry in 
 
 ## Ready to Talk?
 
-There is no cost to find out where you stand.  Call us for a free consultation.  We will tell you honestly whether you have a case, what it might be worth, and how our fee works.  No pressure, no obligation.
+There is no cost to find out where you stand.  Call us for a free consultation on your personal injury case.  We will tell you honestly whether you have a case, what it might be worth, and how our fee works.  No pressure, no obligation.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16

@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: "How Long Do I Have to File a Personal Injury Claim in Kentucky?"
-description: "Kentucky's statute of limitations: 2 years for car accidents, 1 year for most other personal injury claims. Know your deadline. Free consultation. (502) 509-9407."
+description: "Kentucky's statute of limitations: 2 years for car accidents, 1 year for most other personal injury claims. Know your deadline. Free consultations for personal injury cases. (502) 509-9407."
 permalink: /resources/how-long-do-i-have-to-file-personal-injury-claim-kentucky/
 keywords:
   - "how long do I have to file a personal injury claim in Kentucky"
@@ -17,7 +17,7 @@ If you were hurt in an accident in Kentucky -- a car wreck, a fall, an injury at
 
 This page explains Kentucky's statute of limitations for personal injury claims, including the most important exceptions and the scenarios where the deadline is different from what you might expect.
 
-If you were hurt and you are not sure whether your time is running out, the safest thing you can do is call a lawyer.  A free consultation costs you nothing, and it gives you a real answer.
+If you were hurt and you are not sure whether your time is running out, the safest thing you can do is call a lawyer.  A free personal injury consultation costs you nothing, and it gives you a real answer.
 
 ---
 
@@ -162,7 +162,7 @@ Most personal injury cases settle without going to court.  But the statute of li
 
 ## Talk to a Lawyer Before the Deadline
 
-If you are not sure where you stand, the safest thing to do is call us.  A free consultation takes thirty minutes and answers the question directly.  We will tell you what your deadline is, what kind of claim you have, and what your options are.  No charge, no obligation.
+If you are not sure where you stand, the safest thing to do is call us.  A free personal injury consultation takes thirty minutes and answers the question directly.  We will tell you what your deadline is, what kind of claim you have, and what your options are.  No charge, no obligation.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16

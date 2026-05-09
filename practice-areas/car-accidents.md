@@ -1,7 +1,7 @@
 ---
 layout: practice-area
 title: "Louisville Car Accident Lawyer"
-description: "Hurt in a car accident in Louisville?  Our attorneys fight for the compensation you deserve.  Free consultation.  502-509-9407."
+description: "Hurt in a car accident in Louisville?  Our attorneys fight for the compensation you deserve.  Free consultations for car accident cases.  502-509-9407."
 permalink: /practice-areas/car-accidents/
 practice_area: "Car Accidents"
 keywords:
@@ -11,7 +11,7 @@ keywords:
 schema_service: "Car Accident Attorney"
 faq:
   - question: "Do I need a lawyer after a car accident?"
-    answer: "Not always.  If nobody was hurt and the insurance company is treating you fairly, you may not need one.  But if you were injured, if the insurance company is dragging its feet or lowballing you, or if the situation is complicated (multiple vehicles, uninsured driver, disputed fault), talking to a lawyer can make a real difference.  A free consultation costs you nothing."
+    answer: "Not always.  If nobody was hurt and the insurance company is treating you fairly, you may not need one.  But if you were injured, if the insurance company is dragging its feet or lowballing you, or if the situation is complicated (multiple vehicles, uninsured driver, disputed fault), talking to a lawyer can make a real difference.  A free consultation on your car accident case costs you nothing."
   - question: "How much does a car accident lawyer cost?"
     answer: "At Batey Brophy & O'Dea, we handle car accident cases on a contingency fee basis.  That means we do not charge you anything upfront.  Our fee is a percentage of what we recover for you.  If we do not recover anything, you do not owe us a fee."
   - question: "How long does a car accident case take?"
@@ -36,7 +36,7 @@ If you are reading this from a waiting room, from your couch with an ice pack, o
 
 At Batey Brophy & O'Dea, we focus on personal injury cases, including car accidents, here in Louisville and across Kentucky.  Our office is in St. Matthews, right off Shelbyville Road, and we have been helping people through exactly this situation for years.
 
-We offer free consultations.  That means you can call us, tell us what happened, and we will tell you honestly whether you have a case and what your options are.  No charge, no obligation, no pressure.
+We offer free consultations for car accident cases.  That means you can call us, tell us what happened, and we will tell you honestly whether you have a case and what your options are.  No charge, no obligation, no pressure.
 
 **[Call 502-509-9407](tel:502-509-9407)**
 
@@ -74,7 +74,7 @@ You also have the option to "reject" the no-fault system entirely when you buy y
 
 If you DID reject the no-fault system, you go straight to a fault-based claim -- meaning you can sue the other driver directly for your injuries, just like in most other states.
 
-**Bottom line:**  Whether you can pursue a claim against the at-fault driver depends on what kind of coverage you have and how serious your injuries are.  This is exactly the kind of thing a lawyer can sort out for you in a free consultation.
+**Bottom line:**  Whether you can pursue a claim against the at-fault driver depends on what kind of coverage you have and how serious your injuries are.  This is exactly the kind of thing a lawyer can sort out for you in a free consultation on your car accident case.
 
 ### Comparative Negligence in Kentucky
 
@@ -106,7 +106,7 @@ If you have not been in an accident yet and are reading this to be prepared, or 
 6. **See a doctor.**  Even if you feel fine.  Adrenaline masks pain.  Get checked out within 24-48 hours.  This also creates a medical record that connects your injuries to the accident.
 7. **Do not give a recorded statement to the other driver's insurance company.**  You are not required to, and anything you say can be used to reduce your claim.
 8. **Do not post about the accident on social media.**  Insurance adjusters look.
-9. **Call a lawyer.**  A free consultation costs you nothing and can save you from making a mistake that costs you thousands.
+9. **Call a lawyer.**  A free consultation on your car accident case costs you nothing and can save you from making a mistake that costs you thousands.
 
 ---
 
@@ -135,7 +135,7 @@ What we can tell you is that in Kentucky, you may be entitled to compensation fo
 - **Property damage** -- your vehicle and anything in it
 - **Loss of enjoyment of life** -- the things you used to do that you cannot do anymore
 
-The value of your case depends on the severity of your injuries, the strength of the evidence, the available insurance coverage, and many other factors.  That is why a free consultation matters -- we can look at the actual facts of your situation and give you a realistic picture.
+The value of your case depends on the severity of your injuries, the strength of the evidence, the available insurance coverage, and many other factors.  That is why a free consultation on your car accident case matters -- we can look at the actual facts of your situation and give you a realistic picture.
 
 ---
 
@@ -154,11 +154,11 @@ We are not a billboard firm.  We are not going to make you a promise about a dol
 
 ### Do I need a lawyer after a car accident?
 
-Not always.  If nobody was hurt and the insurance company is treating you fairly, you may not need one.  But if you were injured, if the insurance company is dragging its feet or lowballing you, or if the situation is complicated (multiple vehicles, uninsured driver, disputed fault) -- talking to a lawyer can make a real difference.  A free consultation costs you nothing.
+Not always.  If nobody was hurt and the insurance company is treating you fairly, you may not need one.  But if you were injured, if the insurance company is dragging its feet or lowballing you, or if the situation is complicated (multiple vehicles, uninsured driver, disputed fault) -- talking to a lawyer can make a real difference.  A free consultation on your car accident case costs you nothing.
 
 ### How much does a car accident lawyer cost?
 
-At Batey Brophy & O'Dea, we handle car accident cases on a contingency fee basis.  That means we do not charge you anything upfront.  Our fee is a percentage of what we recover for you.  If we do not recover anything, you do not owe us a fee.  We will explain our fee structure clearly during your free consultation.
+At Batey Brophy & O'Dea, we handle car accident cases on a contingency fee basis.  That means we do not charge you anything upfront.  Our fee is a percentage of what we recover for you.  If we do not recover anything, you do not owe us a fee.  We will explain our fee structure clearly during your free consultation on your car accident case.
 
 ### How long does a car accident case take?
 

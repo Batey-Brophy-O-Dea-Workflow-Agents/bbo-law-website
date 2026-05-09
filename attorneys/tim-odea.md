@@ -1,7 +1,7 @@
 ---
 layout: attorney
 title: "Tim O'Dea"
-description: "Tim O'Dea is a partner at Batey Brophy & O'Dea in Louisville, KY. Social Security disability, probate, and personal injury attorney with 30+ years of experience. Free consultation. 502-509-9407."
+description: "Tim O'Dea is a partner at Batey Brophy & O'Dea in Louisville, KY. Social Security disability, probate, and personal injury attorney with 30+ years of experience. Free consultations for personal injury and Social Security disability cases. 502-509-9407."
 permalink: /attorneys/tim-odea/
 schema_name: "Tim O'Dea"
 job_title: "Partner"

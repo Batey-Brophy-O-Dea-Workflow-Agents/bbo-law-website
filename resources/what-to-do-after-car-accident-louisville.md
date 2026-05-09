@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: "What to Do After a Car Accident in Louisville, Kentucky"
-description: "A step-by-step guide to what to do after a car accident in Louisville -- at the scene, in the hours after, and in the days that follow.  Free consultation.  502-509-9407."
+description: "A step-by-step guide to what to do after a car accident in Louisville -- at the scene, in the hours after, and in the days that follow.  Free consultations for car accident cases.  502-509-9407."
 permalink: /resources/what-to-do-after-car-accident-louisville/
 keywords:
   - "what to do after a car accident in Louisville"
@@ -74,7 +74,7 @@ Medical bills and records, documentation of missed work and lost wages, out-of-p
 Insurance companies look.  A single photo out of context can tell a completely misleading story.  Don't post anything related to the accident, your injuries, or your activities while your claim is open.
 
 **14. Talk to a Lawyer**
-You don't have to hire one.  But a free consultation costs you nothing and tells you a lot.  A personal injury lawyer can help you understand what your claim is worth, advise you on settlement offers, handle communications with the insurance company, and make sure you don't miss any deadlines.
+You don't have to hire one.  But a free consultation on your car accident case costs you nothing and tells you a lot.  A personal injury lawyer can help you understand what your claim is worth, advise you on settlement offers, handle communications with the insurance company, and make sure you don't miss any deadlines.
 
 For car accident cases in Kentucky, we offer free consultations.
 

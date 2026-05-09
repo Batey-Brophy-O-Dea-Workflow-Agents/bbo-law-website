@@ -1,7 +1,7 @@
 ---
 layout: attorney
 title: "Nolia Batey O'Dea"
-description: "Nolia Batey O'Dea is a partner at Batey Brophy & O'Dea in Louisville, KY.  Ten years of litigation experience.  Personal injury, car accidents, trucking accidents, and business disputes.  Free consultation.  502-509-9407."
+description: "Nolia Batey O'Dea is a partner at Batey Brophy & O'Dea in Louisville, KY.  Ten years of litigation experience.  Personal injury, car accidents, trucking accidents, and business disputes.  Free consultations for personal injury cases.  502-509-9407."
 permalink: /attorneys/nolia-batey-odea/
 schema_name: "Nolia Batey O'Dea"
 job_title: "Partner"

@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: "How Kentucky's No-Fault Insurance System Works"
-description: "A plain-English explainer of Kentucky's choice no-fault auto insurance, PIP coverage, and when you can sue after a car accident.  Free consultation.  502-509-9407."
+description: "A plain-English explainer of Kentucky's choice no-fault auto insurance, PIP coverage, and when you can sue after a car accident.  Free consultations for personal injury cases.  502-509-9407."
 permalink: /resources/kentucky-no-fault-insurance/
 keywords:
   - "how does no fault insurance work in Kentucky"
@@ -174,7 +174,7 @@ If your medical expenses exceed your PIP limits, the no-fault system has done wh
 
 ### Should I talk to a lawyer about my PIP claim?
 
-For a straightforward PIP claim -- a minor accident, bills within your policy limits, you're recovering fine -- you probably don't need one.  But if your injuries are more serious, if PIP is running out, if the at-fault driver's insurer is calling you, or if you're not sure whether you can pursue a claim outside the no-fault system -- a free consultation is worth your time.
+For a straightforward PIP claim -- a minor accident, bills within your policy limits, you're recovering fine -- you probably don't need one.  But if your injuries are more serious, if PIP is running out, if the at-fault driver's insurer is calling you, or if you're not sure whether you can pursue a claim outside the no-fault system -- a free personal injury consultation is worth your time.
 
 ---
 
@@ -182,7 +182,7 @@ For a straightforward PIP claim -- a minor accident, bills within your policy li
 
 Kentucky's no-fault system is genuinely complicated.  Whether you can pursue the at-fault driver -- and how much you might recover -- depends on your specific coverage, the nature of your injuries, and decisions that were made when you bought your policy.
 
-We offer free consultations.  We will look at your specific situation and tell you honestly what your options are.  If you have a claim worth pursuing, we will tell you.  If you don't, we will tell you that too.
+We offer free consultations for personal injury cases.  We will look at your specific situation and tell you honestly what your options are.  If you have a claim worth pursuing, we will tell you.  If you don't, we will tell you that too.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16
@@ -260,7 +260,7 @@ Saint Matthews, KY 40207
       "name": "Should I talk to a lawyer about my PIP claim?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For a straightforward PIP claim -- a minor accident, bills within your policy limits, you're recovering fine -- you probably don't need one.  But if your injuries are more serious, if PIP is running out, if the at-fault driver's insurer is calling you, or if you're not sure whether you can pursue a claim outside the no-fault system -- a free consultation is worth your time."
+        "text": "For a straightforward PIP claim -- a minor accident, bills within your policy limits, you're recovering fine -- you probably don't need one.  But if your injuries are more serious, if PIP is running out, if the at-fault driver's insurer is calling you, or if you're not sure whether you can pursue a claim outside the no-fault system -- a free personal injury consultation is worth your time."
       }
     }
   ]

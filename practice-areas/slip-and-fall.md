@@ -1,7 +1,7 @@
 ---
 layout: practice-area
 title: "Louisville Slip and Fall Lawyer"
-description: "Injured in a slip and fall in Louisville?  Our attorneys hold property owners accountable.  Free consultation.  502-509-9407."
+description: "Injured in a slip and fall in Louisville?  Our attorneys hold property owners accountable.  Free consultations for personal injury cases.  502-509-9407."
 permalink: /practice-areas/slip-and-fall/
 practice_area: "Slip and Fall"
 keywords:
@@ -32,7 +32,7 @@ Maybe you slipped on a wet floor in a grocery store.  Maybe you tripped on a bro
 
 Whatever happened, you are hurt, and you are wondering whether anyone is responsible.
 
-At Batey Brophy & O'Dea, we handle slip and fall and premises liability cases here in Louisville.  If someone else's negligence caused your injury, you may have a claim.  We offer free consultations -- call us, tell us what happened, and we will tell you honestly whether you have a case.
+At Batey Brophy & O'Dea, we handle slip and fall and premises liability cases here in Louisville.  If someone else's negligence caused your injury, you may have a claim.  We offer free consultations for personal injury cases -- call us, tell us what happened, and we will tell you honestly whether you have a case.
 
 **[Call 502-509-9407](tel:502-509-9407)**
 

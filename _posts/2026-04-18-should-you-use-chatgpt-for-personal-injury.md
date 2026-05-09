@@ -58,7 +58,7 @@ Use it to learn. Use it to prepare. Use it to write down the questions you want 
 
 Then call a real attorney.
 
-A free consultation with a personal injury lawyer who focuses on Louisville car accident cases will tell you more in 30 minutes than any AI tool can tell you in an hour. We can look at your actual situation -- your insurance, the other driver's coverage, your injuries -- and give you a straight answer about whether you have a case worth pursuing.
+A free consultation on your personal injury case with a lawyer who focuses on Louisville car accident cases will tell you more in 30 minutes than any AI tool can tell you in an hour. We can look at your actual situation -- your insurance, the other driver's coverage, your injuries -- and give you a straight answer about whether you have a case worth pursuing.
 
 That conversation doesn't cost you anything. And it's protected.
 

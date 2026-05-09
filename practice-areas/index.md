@@ -11,7 +11,7 @@ At Batey Brophy & O'Dea, we focus on a limited number of practice areas so we ca
 
 <div class="practice-area-card">
 <h3><a href="/practice-areas/car-accidents/">Car Accidents</a></h3>
-<p>If you were hurt in a car accident in Louisville or anywhere in Kentucky, we can help.  We know how insurance companies work, we know the tactics they use, and we know how to push back.  Free consultation.</p>
+<p>If you were hurt in a car accident in Louisville or anywhere in Kentucky, we can help.  We know how insurance companies work, we know the tactics they use, and we know how to push back.  Free consultations for car accident cases.</p>
 <a href="/practice-areas/car-accidents/" class="btn btn-primary">Learn More</a>
 </div>
 
@@ -23,7 +23,7 @@ At Batey Brophy & O'Dea, we focus on a limited number of practice areas so we ca
 
 <div class="practice-area-card">
 <h3>Personal Injury</h3>
-<p>Car accidents, slip and falls, dog bites, and other injury claims.  If you got hurt because someone else was not careful enough, call us for a free consultation.</p>
+<p>Car accidents, slip and falls, dog bites, and other injury claims.  If you got hurt because someone else was not careful enough, call us for a free consultation on your personal injury case.</p>
 </div>
 
 <div class="practice-area-card">

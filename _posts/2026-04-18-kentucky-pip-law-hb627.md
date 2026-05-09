@@ -97,7 +97,7 @@ Getting this wrong is costly.  Either accepting less than you're entitled to, or
 
 HB 627 is good news for people injured in Kentucky going forward -- higher wage loss benefits and higher funeral benefits are meaningful improvements.  But the transition matters.  Which law applies to you is not automatic; it depends on your accident date and your policy renewal date.
 
-If you have questions about your specific situation -- which rules apply, what your PIP covers, or whether you have a claim worth pursuing beyond PIP -- we offer free consultations.
+If you have questions about your specific situation -- which rules apply, what your PIP covers, or whether you have a claim worth pursuing beyond PIP -- we offer free consultations for personal injury cases.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16

@@ -203,7 +203,7 @@ Social Security disability attorney fees are regulated by the SSA.  If you win, 
 
 You have been reading this page because you are trying to figure out whether you have a case.  The fastest way to get a real answer is to call us.
 
-Tim O'Dea at Batey Brophy & O'Dea has handled Social Security disability cases in Louisville for nearly 30 years.  A free consultation gives you an honest answer about your situation -- not a sales pitch, not a runaround.  Just a real assessment.
+Tim O'Dea at Batey Brophy & O'Dea has handled Social Security disability cases in Louisville for nearly 30 years.  A free consultation on your Social Security disability case gives you an honest answer about your situation -- not a sales pitch, not a runaround.  Just a real assessment.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16

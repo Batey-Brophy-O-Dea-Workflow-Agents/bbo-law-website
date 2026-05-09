@@ -1,7 +1,7 @@
 ---
 layout: practice-area
 title: "Social Security Disability Lawyer in Louisville, Kentucky"
-description: "Tim O'Dea has handled Social Security Disability cases since 1996. Most SSD claims are denied the first time -- we fight back. Free consultation. (502) 509-9407."
+description: "Tim O'Dea has handled Social Security Disability cases since 1996. Most SSD claims are denied the first time -- we fight back. Free consultations for Social Security Disability cases. (502) 509-9407."
 permalink: /practice-areas/social-security-disability-lawyer-louisville/
 practice_area: "Social Security Disability"
 keywords:
@@ -22,7 +22,7 @@ You are not alone.  Most Social Security Disability claims are denied the first 
 
 At Batey Brophy & O'Dea, Tim O'Dea helps people in Louisville and across Kentucky fight for the Social Security Disability benefits they have earned.  Tim has been handling Social Security Disability cases since 1996 -- nearly 30 years of navigating a system that says no far more often than it should.  If you have been denied, or if you are thinking about applying and want to do it right the first time, we can help.
 
-We offer free consultations.  Call us, tell us what is going on, and we will be honest about where you stand and what your options are.
+We offer free consultations for Social Security Disability cases.  Call us, tell us what is going on, and we will be honest about where you stand and what your options are.
 
 **(502) 509-9407**
 
@@ -164,7 +164,7 @@ Yes.  Depression, anxiety, PTSD, bipolar disorder, schizophrenia, and other ment
 
 ---
 
-## Free Consultation -- Call Today
+## Free Consultations for Social Security Disability Cases -- Call Today
 
 If you cannot work because of a medical condition and you need help navigating the Social Security Disability process, call us.  Tim O'Dea will sit down with you, review your situation, and tell you honestly what he thinks.  The consultation is free, and if we take your case, you pay nothing unless we win.
 

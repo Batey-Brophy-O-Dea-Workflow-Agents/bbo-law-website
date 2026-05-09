@@ -168,7 +168,7 @@ Nothing upfront.  If Tim wins your case, his fee is a percentage of your back pa
 
 The process is long.  Starting with good help makes a difference at every stage.
 
-Tim O'Dea has been handling Social Security Disability cases in Louisville since 1996.  He offers free consultations and works on a contingency basis -- no fee unless he wins.
+Tim O'Dea has been handling Social Security Disability cases in Louisville since 1996.  He offers free consultations for Social Security Disability cases and works on a contingency basis -- no fee unless he wins.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16
