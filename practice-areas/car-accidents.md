@@ -3,11 +3,17 @@ layout: practice-area
 title: "Louisville Car Accident Lawyer"
 description: "Hurt in a car accident in Louisville?  Our attorneys fight for the compensation you deserve.  Free consultations for car accident cases.  502-509-9407."
 permalink: /practice-areas/car-accidents/
+redirect_from:
+  - /practice-areas/car-accident-lawyer-louisville/
 practice_area: "Car Accidents"
 keywords:
   - "car accident lawyer Louisville KY"
+  - "car accident lawyer St Matthews KY"
   - "auto accident attorney Louisville"
   - "wreck lawyer Louisville"
+  - "wreck lawyer Louisville KY"
+  - "Kentucky car accident laws"
+  - "do I need a lawyer after a car accident"
 schema_service: "Car Accident Attorney"
 faq:
   - question: "Do I need a lawyer after a car accident?"
