@@ -17,13 +17,13 @@ At Batey Brophy & O'Dea, we focus on a limited number of practice areas so we ca
 
 <div class="practice-area-card">
 <h3><a href="/practice-areas/slip-and-fall/">Slip and Fall</a></h3>
-<p>Property owners have a legal duty to keep their premises safe.  If someone else's negligence caused your injury, you may have a claim.  We handle premises liability cases throughout Louisville and Jefferson County.</p>
+<p>If someone else's negligence caused your injury -- whether on their property or in another setting -- you may have a personal injury claim.  Kentucky's one-year deadline applies to most non-MVA injury claims, so don't wait.</p>
 <a href="/practice-areas/slip-and-fall/" class="btn btn-primary">Learn More</a>
 </div>
 
 <div class="practice-area-card">
 <h3>Personal Injury</h3>
-<p>Car accidents, slip and falls, dog bites, and other injury claims.  If you got hurt because someone else was not careful enough, call us for a free consultation on your personal injury case.</p>
+<p>Car accidents, truck and motorcycle wrecks, and other injury claims.  If you got hurt because someone else was not careful enough, call us for a free consultation on your personal injury case.</p>
 </div>
 
 <div class="practice-area-card">
