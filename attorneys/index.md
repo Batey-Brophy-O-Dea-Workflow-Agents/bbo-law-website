@@ -24,9 +24,9 @@ At Batey Brophy & O'Dea, we limit our caseload so we can give every client the a
 </div>
 
 <div class="attorney-card">
-<h3><a href="/attorneys/tim-odea/">Tim O'Dea</a></h3>
+<h3><a href="/attorneys/tim-odea/">Timothy J. O'Dea, Jr.</a></h3>
 <p class="attorney-card-title">Partner</p>
-<p>Tim handles Social Security disability, probate, and uncontested divorce matters for the firm.  He brings practical, straightforward guidance to every client he works with.</p>
+<p>Tim handles Social Security disability, probate, family law and divorce, and personal injury matters for the firm.  He brings practical, straightforward guidance to every client he works with.</p>
 <a href="/attorneys/tim-odea/" class="btn btn-primary">Read Full Bio</a>
 </div>
 

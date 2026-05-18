@@ -70,7 +70,7 @@ I dedicate significant time to pro bono work for both organizations and individu
 
 ## Outside the Office
 
-I love traveling, playing pickleball, gardening, and spending time with my spouse (and law partner) Tim O'Dea and our two rescue dogs, Ozzy and Chop.  They make every part of life a little brighter.
+I love traveling, playing pickleball, gardening, and spending time with my spouse (and law partner) Tim and our two rescue dogs, Ozzy and Chop.  They make every part of life a little brighter.
 
 ## Get In Touch
 

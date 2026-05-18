@@ -1,15 +1,16 @@
 ---
 layout: attorney
-title: "Tim O'Dea"
-description: "Tim O'Dea is a partner at Batey Brophy & O'Dea in Louisville, KY. Social Security disability, probate, and personal injury attorney with 30+ years of experience. Free consultations for personal injury and Social Security disability cases. 502-509-9407."
+title: "Timothy J. O'Dea, Jr."
+description: "Timothy J. O'Dea, Jr. is a partner at Batey Brophy & O'Dea in Louisville, KY.  Social Security disability, probate, family law and divorce, and personal injury attorney with 30+ years of experience.  Free consultations for personal injury and Social Security disability cases.  502-509-9407."
 permalink: /attorneys/tim-odea/
-schema_name: "Tim O'Dea"
+schema_name: "Timothy J. O'Dea, Jr."
 job_title: "Partner"
 image: "/assets/images/attorneys/tim-odea.jpg"
 practice_areas:
   - "Social Security Disability"
   - "Probate"
-  - "Uncontested Divorce"
+  - "Family Law"
+  - "Divorce"
   - "Personal Injury"
 ---
 
@@ -19,7 +20,7 @@ practice_areas:
 
 ## The Short Version
 
-Tim O'Dea has been practicing law in Louisville for over 30 years.  He focuses on Social Security Disability, probate and estate administration, and personal injury.  He has been handling Social Security Disability cases since 1996 and probate matters since 1995.
+Timothy J. O'Dea, Jr. has been practicing law in Louisville for over 30 years.  He focuses on Social Security Disability, probate and estate administration, family law and divorce, and personal injury.  He has been handling Social Security Disability cases since 1996 and probate matters since 1995.
 
 He is a Saint Matthews native -- he grew up here, went to school here, and has watched this neighborhood grow his entire life.  When he joined Batey Brophy & O'Dea at 161 St. Matthews Ave., he came home.
 
@@ -27,7 +28,7 @@ He is a Saint Matthews native -- he grew up here, went to school here, and has w
 
 ## About Tim
 
-Tim O'Dea has spent his career helping people navigate the legal system at the moments when it matters most.
+Tim has spent his career helping people navigate the legal system at the moments when it matters most.
 
 For nearly 30 years, he has guided clients through the Social Security Disability process -- from initial applications through appeals before Administrative Law Judges and, when necessary, into federal court.  Most SSD claims are denied the first time.  Tim knows the process, knows what the Social Security Administration is looking for, and knows how to fight for benefits that people have spent their working lives earning.
 
@@ -49,6 +50,7 @@ Outside the office, Tim is a proud husband and father.  He enjoys pickleball, ba
 
 - **Social Security Disability (SSDI and SSI)** -- initial applications, reconsiderations, ALJ hearings, federal court appeals
 - **Probate and Estate Administration** -- guiding families through the Kentucky probate process, asset transfers, creditor claims, inheritance tax
+- **Family Law and Divorce** -- including contested and uncontested divorce and related family law matters
 - **Personal Injury** -- car accidents, truck accidents, and other injury claims (20+ years)
 
 ---
@@ -81,7 +83,7 @@ Outside the office, Tim is a proud husband and father.  He enjoys pickleball, ba
 
 ## Get In Touch
 
-Tim offers free consultations for Social Security Disability and personal injury matters.
+Tim offers free consultations for Social Security Disability and personal injury matters.  For family law and divorce matters, an initial consultation can be arranged by calling the office.
 
 **Batey Brophy & O'Dea, PLLC**
 161 St. Matthews Ave., Suite 16
@@ -90,4 +92,4 @@ Saint Matthews, KY 40207
 
 ---
 
-*This is an advertisement.  Tim O'Dea is licensed to practice law in the Commonwealth of Kentucky and is admitted to practice before the U.S. District Courts for the Western and Eastern Districts of Kentucky and the United States Court of Appeals.  The information on this page is for general informational purposes and does not constitute legal advice.  Contacting this firm does not create an attorney-client relationship.  Prior results do not guarantee a similar outcome.*
+*This is an advertisement.  Timothy J. O'Dea, Jr. is licensed to practice law in the Commonwealth of Kentucky and is admitted to practice before the U.S. District Courts for the Western and Eastern Districts of Kentucky and the United States Court of Appeals.  The information on this page is for general informational purposes and does not constitute legal advice.  Contacting this firm does not create an attorney-client relationship.  Prior results do not guarantee a similar outcome.*
